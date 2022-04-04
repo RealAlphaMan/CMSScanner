@@ -1,0 +1,7 @@
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+pkg
+Gemfile.lock
